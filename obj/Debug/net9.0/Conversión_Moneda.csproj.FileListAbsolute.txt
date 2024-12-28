@@ -1,0 +1,14 @@
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\obj\Debug\net9.0\Conversión_Moneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\obj\Debug\net9.0\Conversión_Moneda.AssemblyInfoInputs.cache
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\obj\Debug\net9.0\Conversión_Moneda.AssemblyInfo.cs
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\obj\Debug\net9.0\Conversión_Moneda.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\bin\Debug\net9.0\Conversión_Moneda.exe
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\bin\Debug\net9.0\Conversión_Moneda.deps.json
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\bin\Debug\net9.0\Conversión_Moneda.runtimeconfig.json
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\bin\Debug\net9.0\Conversión_Moneda.dll
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\bin\Debug\net9.0\Conversión_Moneda.pdb
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\obj\Debug\net9.0\Conversión_Moneda.dll
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\obj\Debug\net9.0\refint\Conversión_Moneda.dll
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\obj\Debug\net9.0\Conversión_Moneda.pdb
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\obj\Debug\net9.0\Conversión_Moneda.genruntimeconfig.cache
+C:\Users\alexm\OneDrive\Escritorio\Conversión_Moneda\obj\Debug\net9.0\ref\Conversión_Moneda.dll
